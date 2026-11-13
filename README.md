@@ -1,4 +1,4 @@
-# Bias Mitigation using Reweighing (Data Wrangling Task 2)
+# Bias Mitigation using Reweighing (Data Wrangling)
 
 This repository contains the implementation for Task 2 of the Data Wrangling assignment, evaluating the effectiveness of a bias-mitigation algorithm across three datasets.
 
